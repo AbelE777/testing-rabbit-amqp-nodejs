@@ -1,0 +1,17 @@
+{
+  "name": "back-rabbit-amqp",
+  "version": "1.0.0",
+  "description": "rabbit message queue with docker",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
